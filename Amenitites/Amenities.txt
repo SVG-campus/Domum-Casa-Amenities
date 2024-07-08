@@ -1,0 +1,103 @@
+Toothbrushes
+  2 per Client
+Shampoo
+  4 per Client per Day
+Conditioner
+  4 per Client per Day
+Body Wash
+  4 per Client per Day
+Mouth Rinse
+  2 per Client per Day
+Hair Brushes
+  2 per Client
+Tooth Floss
+  2 per Client
+Shower Cap
+  4 per Client per Day
+Make-up Removers
+  10 per Client per Day
+Womens Period Supply
+  4 per Client per Day
+Eye Shades
+  2 per Client
+Shaving Razor
+  4 per Client
+Shaving Cream
+  4 per Client
+Ear Plugs
+  2 per Client per Day
+Bed Sheets
+  4 per Client
+Douvets
+  4 per Client
+Pillow Sheets
+  8 per Client
+Waterproof Bedliners
+  4 per Client
+Waterproof Pillow Liners
+  4 per Client
+Robe
+  2 per Client
+Sandals
+  2 per Client
+Pool Goggles
+  2 per Client
+Sewing Kit
+  2 per Client
+Bath Salts
+  2 per Client per Day
+Bath Bombs
+  2 per Client per Day
+Cotton Rounds
+  25 per Client per Day
+Cotton Swabs
+  25 per Client per Day
+Guest Slippers
+  2 per Client
+Hoodies
+  2 per Client
+Pants
+  2 per Client
+Shorts
+  2 per Client
+Socks
+  2 per Client
+Lotion
+  4 per Client
+Bathing Towels
+  8 per Client
+Hand Towels
+  8 per Client
+Sponges
+  4 per Client
+Cleaning Liquids
+  1 set per stay
+Pots  
+  4 per Clien, 8 Max per Stay
+Pans
+  4 per Client, 8 Max per Stay
+Plates
+  12 per Client, 36 Max per Stay
+Cups
+  12 per Client, 36 Max per Stay
+Wine Cups
+  12 per Client, 36 Max per Stay
+Forks
+  24 per Client, 48 Max per Stay
+Spoons
+  24 per Client, 48 Max per Stay
+Knives
+  24 per Client, 48 Max per Stay
+Air Duster:
+  2 per Stay
+Pens:
+  12 per Client
+Penciles:
+  12 per Client
+Paper:
+  12 per Client
+Stapler:
+  1 per Stay
+Optional:
+  Grilling Utenciles
+    Set per Stay
